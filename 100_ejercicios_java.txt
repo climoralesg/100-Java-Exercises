@@ -1,0 +1,452 @@
+Ejercicio 1 (Listo): Crear una variable de cada tipo
+Crea una variable de cada uno de los siguientes tipos:
+
+byte
+short
+int
+long
+char
+double
+float
+String
+boolean
+Ejercicio 2: Saludador
+Pide un nombre por consola y salúdalo por consola.
+
+Ejercicio 3: Suma, resta, multiplicador, división y módulo
+Pide dos números por consola y muestra su suma, resta, multiplicación y división.
+
+Ejercicio 4: Menor de dos números
+Pide dos números por consola e indica cuál es el menor de los dos números. En caso de que sean iguales, también lo debes indicar.
+
+Ejercicio 5: Pares entre 1 y 10
+Mostrar los números pares que hay entre el 1 y 10 (utilizando while y for).
+
+Ejercicio 6: Tabla de multiplicar
+Pide un número por consola y muestra la tabla de multiplicar de ese número. Por ejemplo, si el número que pides es el 5, debe devolver:
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+
+Ejercicio 7: Recorre cadenas
+Pide una cadena por consola y muestra sus caracteres uno a uno.
+
+Ejercicio 8: Concatena palabras
+Pide palabras al usuario hasta que el usuario escriba una cadena vacía. Muestra la concatenación de esas palabras al final.
+
+Ejercicio 9: Bisiesto
+Pide un año por teclado (número) e indica si es bisiesto o no.
+Es bisiesto cuando es divisible entre 4 y no divisible entre 100 o si es divisible entre 400.
+
+Ejercicio 10: Validar un número
+Pide un número por consola y valida que ese número esté entre 0 y 10. Hazlo con un do-while.
+
+Ejercicio 11: Precio con IVA
+Pide un número real que represente un precio y muestra el precio con IVA. El IVA es del 19%.
+
+Ejercicio 12: Horas, minutos y segundos
+Pide un número de segundos e indica cuántas horas, minutos y segundos equivalen.
+
+Ejercicio 13: Invertir cadena
+Pide una frase o palabra por consola e inviértela.
+
+Ejercicio 14: Generar números aleatorios
+Genera 10 números aleatorios entre 1 y 10.
+
+Ejercicio 15: Palíndromo
+Pide una frase por consola e indica si es un palíndromo.
+Un palíndromo es una palabra o frase que se lee igual de izquierda a derecha que de derecha a izquierda. Ejemplo: "alola".
+
+Ejercicio 16: Adivina el número
+Genera un número aleatorio entre 1 y 100.
+Pide al usuario números entre estos dos valores y, si el usuario falla, debes indicarle si el número que introdujo es mayor o menor que el número objetivo. El programa termina cuando el usuario acierta. No hay límite de intentos.
+
+Ejercicio 17: Mini-calculadora
+Pide dos números por consola y crea un pequeño menú con las siguientes opciones:
+
+Sumar
+Restar
+Multiplicar
+Dividir
+Módulo
+Al final, debemos preguntar si queremos realizar otra operación. En caso afirmativo, el programa vuelve a empezar.
+
+Ejercicio 18: Cálculo de salario con puesto
+Pide un salario base por consola y el puesto por consola. Calcula su sueldo sabiendo lo siguiente:
+
+Si es vendedor, cobra 500 euros más.
+Si es director, cobra 1000 euros más.
+Si es conserje, cobra 100 euros más.
+Utiliza un enumerado para almacenar los tipos de puesto de trabajo.
+
+Ejercicio 19: Ecuación de segundo grado
+Pide 3 números por consola y resuelve una ecuación de segundo grado.
+
+Ejercicio 20: Número perfecto
+Pide un número por consola e indica si es un número perfecto.
+Un número perfecto es aquel que es igual a la suma de sus divisores propios positivos. Ejemplo: el 28 es perfecto porque 28 = 1 + 2 + 4 + 7 + 14.
+
+Ejercicio 21: Suma del 1 a n
+Crea una función que devuelva la suma de los números del 1 al número pasado como parámetro (incluido).
+
+Ejercicio 22: Generar número aleatorio entre dos números
+Crea una función que genere un número aleatorio entre dos números pasados por parámetro.
+
+Ejercicio 23: Pares entre 2 números
+Crea una función que, dados dos números, muestre todos los números pares entre ellos.
+
+Ejercicio 24: De decimal a octal
+Crea una función que, dado un número decimal, lo convierta a octal.
+
+Ejercicio 25: Validar número entre dos números
+Crea una función que valide si un número está entre dos números. Necesitas dos parámetros numéricos.
+
+Ejercicio 26: Invertir palabra y palíndromo
+Crea una función que indique si una palabra o frase pasada por parámetro es un palíndromo.
+
+Ejercicio 27: Muestra dígitos
+Crea un método que, dado un número, muestre sus dígitos.
+
+Ejercicio 28: Contar mayúsculas o minúsculas
+Crea una función que, dado un String y un boolean, cuente las letras mayúsculas o minúsculas, según el valor del segundo parámetro.
+
+true = mayúsculas,
+false = minúsculas.
+
+Ejercicio 29: Dígito más alto
+Crea una función que, dado un número, diga cuál es el dígito más alto que tiene.
+
+Ejercicio 30: Generar password
+Crea una función que genere una contraseña aleatoria con letras mayúsculas, minúsculas y números.
+Pasa por parámetro la longitud de la contraseña.
+
+Ejercicio 31: Crear y recorrer un array
+Crea un array de 3 posiciones, rellenalo pidiendo los números al usuario y recorrelo para mostrarlo.
+
+Ejercicio 32: Rellenar un array con numeros aleatorios
+Crea un array de 10 posiciones y rellenalo con números aleatorios. . Muestralos al final.
+Crea una función para rellenarlo y otra para mostrar.
+
+Ejercicio 33: Suma y media de un array de números
+Crea un array de números (dale los valores tu mismo) e indica cual es la suma y la media de ese array.
+
+Ejercicio 34: Arrays iguales
+Crea dos arrays e indica si son iguales.
+
+
+Ejercicio 35: Mayor y menor en un array
+Mostrar el menor y mayor de un array de números creado por ti mismo.
+
+
+Ejercicio 36: Dígitos en un array
+Crea una función que dado un número natural me devuelva sus dígitos en un array.
+
+Ejercicio 37: Caracteres de un String en un array
+Pide una frase por consola y guarda en un array todos sus caracteres.
+
+
+Ejercicio 38: Fusion arrays
+
+
+Ejercicio 39: Numero más repetido en un array
+Dado un array de números, indica cual es el elemento más repetido, en caso de empate, mostrar el último más repetido.
+
+
+Ejercicio 40: Letra DNI
+Dado un array de caracteres (te lo doy yo) y tu numero de DNI, debes sacar la letra de tu DNI.
+Para obtenerla solo deber sacar el módulo de 23 y ese sera el indice del array.
+Teniendo un array de String con el nombre de personas y otro de números con su edad, indicar quien es la persona mas mayor.
+
+
+Ejercicio 42: Mini-ahorcado
+Vamos a hacer un pequeño ahorcado.
+
+Tendremos un pequeño array con palabras que tu elijas, créalo tu mismo.
+
+Debes mostrar la palabra cogida con guiones e ir pidiendo letras.
+
+El usuario gana cuando la palabra este completa.
+
+Si falla 6 veces, el usuario pierde.
+
+Ejercicio 43: Creando rellenando y recorriendo una matriz
+
+Crea una matriz de números de 3x3, pidiendo cada numero. Al final recorre la matriz y muestrala.
+
+Ejercicio 44: Muestra fila matriz
+Crea una matriz de números 3x3. Crea una función que, dada una matriz y una fila, muestre solo esa fila.
+
+Ejercicio 45: Muestra columna matriz
+Crea una matriz de números 3x3. Crea una función que, dada una matriz y una columna, muestre solo esa columna.
+
+Ejercicio 46: Muestra diagonales matrices
+Crea una matriz de números 3x3 y recorre su diagonal principal y su diagonal inversa.
+
+Ejercicio 47: Fila idéntica matriz
+Crea una matriz de números 3x3. Crea una función que, dada una fila de la matriz, indique si los valores de esa fila son idénticos.
+
+Ejercicio 48: Movimiento ajedrez rey en una matriz
+Teniendo una matriz de char de 8x8, simula el movimiento de un rey de ajedrez.
+El rey puede moverse una posición dentro del tablero. Muestra su ubicación en cada momento.
+
+Ejercicio 49: Movimiento ajedrez alfil en una matriz
+Teniendo una matriz de char de 8x8, simula el movimiento de un alfil de ajedrez.
+El alfil puede moverse en las diagonales del tablero. Muestra su ubicación en cada momento.
+
+Ejercicio 50: Movimiento torre en una matriz
+Teniendo una matriz de char de 8x8, simula el movimiento de una torre de ajedrez.
+La torre puede moverse vertical y horizontalmente dentro del tablero.
+
+Ejercicio 51: Movimiento reina alfil en una matriz
+Teniendo una matriz de char de 8x8, simula el movimiento de una reina de ajedrez, que puede moverse tanto como una torre como un alfil (horizontal, vertical, y diagonal).
+
+Ejercicio 52: Buscaminas
+Teniendo una matriz de 6x7 con 10 minas colocadas aleatoriamente, pide al usuario que ingrese una fila y una columna (solo zonas que no se hayan explorado).
+El jugador gana cuando no pisa ninguna mina durante 5 turnos seguidos. Si pisa una mina, el juego termina.
+
+Ejercicio 53: Crear clase Avion
+Crea una clase Avion con los siguientes atributos:
+
+Modelo
+Número de asientos
+Velocidad máxima
+Dos constructores:
+
+Constructor vacío
+Constructor completo
+Métodos:
+
+Getter y setter
+toString()
+Ejercicio 54: Crear clase Aeropuerto
+Crea una clase Aeropuerto con los siguientes atributos:
+
+Nombre
+País
+Calle
+Número
+Ciudad
+Año de inauguración
+Capacidad
+Dos constructores:
+
+Constructor vacío
+Constructor completo
+Métodos:
+
+Getter y setter
+aniosAbierto() que devuelve el número de años que ha estado abierto.
+toString()
+
+Ejercicio 55: Crear clase Dirección
+Define una clase Dirección para almacenar la dirección del Aeropuerto.
+La clase Aeropuerto utilizará un objeto Dirección.
+
+Ejercicio 56: Asociación Avión - Aeropuerto
+Asocia un avión a un aeropuerto mediante una relación de uno a varios (Un aeropuerto puede tener muchos aviones).
+
+Ejercicio 57: Atributo estático en Aeropuerto
+Añade un atributo estático id en la clase Aeropuerto que se incrementa cada vez que se crea un nuevo objeto de Aeropuerto.
+
+Ejercicio 58: Equals y compareTo en Aeropuerto
+Implementa los métodos equals() y compareTo() en la clase Aeropuerto para que puedan compararse aeropuertos por nombre y año de inauguración.
+
+Ejercicio 59: Mejorar llamada a constructores
+En la clase Aeropuerto, mejora la llamada a los constructores usando this().
+
+Ejercicio 60: Aeropuerto público (herencia)
+Crea una clase AeropuertoPublico que herede de Aeropuerto y tenga atributos adicionales como:
+
+Financiación pública
+Número de trabajadores discapacitados
+Ejercicio 61: Aeropuerto privado (herencia)
+Crea una clase AeropuertoPrivado que herede de Aeropuerto y tenga atributos como:
+
+Número de socios.
+Ejercicio 63: Aeropuerto abstracto
+Convierte la clase Aeropuerto en abstracta y agrega el método abstracto calcularGananciasTotales(), que debe ser implementado por las clases hijas.
+
+Ejercicio 64: Método final en Aeropuerto
+Haz que el método calcularAnio() de la clase Aeropuerto sea final, de forma que no pueda ser sobrescrito por las clases hijas.
+
+Ejercicio 65: Interfaces en Avión
+Crea la interfaz Activable para la clase Avión que permita saber si un avión está preparado para volar. La interfaz tendrá un método isReadyToFly().
+
+Ejercicio 66: Añadir Javadoc
+Añade documentación Javadoc a todas las clases y métodos del proyecto para documentar adecuadamente el código.
+
+Ejercicio 67: Menú para gestionar aeropuertos (parte 1)
+Crea un menú interactivo con opciones para:
+
+Añadir aeropuertos
+Añadir aviones
+Asociar un avión a un aeropuerto
+Mostrar información de aeropuertos y aviones.
+Ejercicio 68: Crear y recorrer ArrayList
+Crea un ArrayList con números aleatorios entre 1 y 100 y recórrelo utilizando un bucle for.
+
+Ejercicio 69: Usar ArrayList con aviones
+Crea un ArrayList de objetos Avión y añade al menos 5 aviones con diferentes características.
+
+Ejercicio 70: Iterador
+Utiliza un iterador para recorrer un ArrayList de objetos Avión.
+
+
+Ejercicio 71: Ordenar ArrayList
+Crea un ArrayList de Aviones y ordénalos de menor a mayor.
+Un avión es mayor que otro cuando su velocidad es mayor.
+
+Ejercicio 72: Actualizar Aeropuertos con ArrayList
+Actualiza el proyecto POO de aeropuerto con lo siguiente:
+
+Cambia los arrays por ArrayList.
+Añade a la clase Avión su correspondiente equals.
+Modifica el método añadirAvion y agrega otro que se llame eliminarAvion.
+Ejercicio 74: Leer Fichero de Texto
+Crea un fichero en el proyecto tú mismo y escribe el texto que quieras.
+Léelo con BufferedReader.
+Haz una función de ello.
+
+Ejercicio 75: Contar Número de Líneas
+Crea un fichero de texto tú mismo y cuenta el número de líneas que tiene.
+
+Ejercicio 76: Leer un Número Determinado de Líneas
+Crea un fichero de texto tú mismo, pide un número de líneas y lee hasta ese número de líneas.
+Si el número que te dan es negativo o se leen más líneas de las que hay, lanza una excepción.
+
+Ejercicio 77: Número Mayor y Menor de un Fichero
+Dado un fichero de texto con una lista de números, indica cuál es el mayor y el menor.
+
+Ejercicio 78: Ordenar Nombres de Personas
+Escribe en un fichero nombres de personas tú mismo, léelos, guárdalos en un ArrayList, ordénalos y escríbelos en un nuevo fichero.
+
+Ejercicio 79: Escribir Fichero con DataOutputStream
+Escribe la información de un avión con DataOutputStream.
+
+Ejercicio 80: Leer Información de un Fichero con DataInputStream
+Lee la información del fichero anterior y crea el avión correspondiente.
+
+Ejercicio 81: Escribir en Fichero Serializado
+Escribe en un fichero serializado un objeto aeropuerto.
+Prueba a meter más de uno.
+
+Ejercicio 82: Leer Fichero Serializado
+Lee el fichero serializado del ejercicio anterior y guárdalos en una lista.
+
+Ejercicio 83: Validar un Número Entero
+Valida si una cadena es un número entero.
+
+Ejercicio 84: Validar un Número Real
+Valida si una cadena es un número real.
+
+Ejercicio 85: Pantalla de Login
+Añade un JFrame y créalo parecido a la siguiente imagen:
+Imagen de ejemplo de login
+Cuando pongas el nombre y password y pulses el botón de login, si es correcto, abrirás una ventana vacía; si no es correcto, mostrarás un mensaje de error.
+El nombre de usuario y password serán ambos "admin".
+Si pulsas en salir, cerrarás el programa.
+
+Ejercicio 86: Variables Globales
+Crea una clase llamada VariablesGlobales, donde almacenaremos un ArrayList de Aeropuertos.
+Piensa qué modificador debe tener para que pueda ser accesible desde donde queramos.
+
+Ejercicio 87: Cargar los Aeropuertos del Fichero Serializado
+Crea un fichero aparte llamado MetodosSueltos, donde tendrás dos funciones:
+
+leerFicheroSerializado(): leerá el fichero serializado que tenemos en el proyecto, insertando los objetos Aeropuertos leídos en la lista.
+escribirFicheroSerializado(Aeropuerto a): escribirá en el fichero el aeropuerto pasado por parámetro y lo introducirá a la lista. (Recuerda usar la clase MiObjectOutputStream).
+
+Ejercicio 88: Menú de Nuestra Aplicación
+En nuestra ventana principal, añade un menú con las siguientes opciones:
+
+Aeropuertos:
+Añadir...
+Editar...
+Borrar
+Ganancias:
+Mostrar información
+Aviones:
+Añadir...
+Activar/desactivar avión...
+Borrar...
+Salir
+En los siguientes vídeos, se le dará funcionalidad.
+Ejercicio 89: Añadir Aeropuerto (Parte 1)
+Crea un diálogo que tenga este estilo:
+Imagen de ejemplo de añadir aeropuerto
+Cuando pulses en guardar, debe validar si algún dato está mal e indicarlo. En caso de que todo esté bien, debe crear el aeropuerto correspondiente y añadirlo al fichero y a la lista.
+Si pulsas en cancelar, cerrarás la ventana.
+
+Ejercicio 89: Añadir Aeropuerto (Parte 2)
+(Repite la funcionalidad descrita en la Parte 1).
+
+Ejercicio 89: Añadir Aeropuerto (Parte 3)
+(Repite la funcionalidad descrita en la Parte 1).
+
+Ejercicio 90: Mostrando Aeropuertos en un JTable
+Añade un JTable donde se muestren todos los aeropuertos disponibles en nuestra lista.
+Rellénalos con la lista de aeropuertos.
+
+Ejercicio 91: Filtro Cambio de Tipo de Aeropuerto
+En la ventana principal, añade dos RadioButton con los dos tipos de aeropuertos que hay.
+Al pulsar en uno de ellos, se modificará el modelo del JTable.
+
+Ejercicio 92: Filtro Buscar por Nombre
+En la ventana principal, añade un JTextField encima de la tabla de aeropuertos y cuando se escriba una letra, filtre por coincidencia en el nombre.
+Usa el evento de teclado para ello.
+
+Ejercicio 93: Arreglando el ID Repetido
+Cuando introducimos nuevos aeropuertos, algo va mal, el ID se reinicia. Vemos cómo arreglarlo.
+
+Ejercicio 94: Editar un Aeropuerto (Parte 1)
+Usa el mismo diálogo que en el ejercicio anterior. Modifícalo para que pueda usarse en ambas opciones.
+Cuando pulses en guardar, debe validar si algún dato está mal e indicarlo. En caso de que todo esté bien, debe editar el aeropuerto y actualizarlo tanto en el fichero como en la lista.
+Si pulsas en cancelar, cerrarás la ventana.
+
+Ejercicio 94: Editar un Aeropuerto (Parte 2)
+(Repite la funcionalidad descrita en la Parte 1).
+
+Ejercicio 95: Borrar Aeropuerto
+En la ventana principal, cuando seleccionemos una fila de la tabla y pulsemos en borrar, nos debe salir un mensaje de confirmación para borrar realmente el aeropuerto.
+Si no se selecciona una fila, debemos indicárselo al usuario.
+
+Ejercicio 96: Mostrar Información de un Aeropuerto
+En la ventana principal, cuando seleccionemos una fila de la tabla y pulsemos en mostrar información, se mostrará la información en un JOptionPane.
+Si no se selecciona una fila, debemos indicárselo al usuario.
+
+Ejercicio 97: Mostrar las Ganancias de un Aeropuerto
+En la ventana principal, cuando seleccionemos una fila de la tabla y pulsemos en ganancias, nos pedirá la cantidad ganada en un JOptionPane y nos mostrará en otro la ganancia de ese aeropuerto.
+Si no se selecciona una fila, debemos indicárselo al usuario.
+
+Ejercicio 98: Añadir Avión (Parte 1)
+Se mostrará una ventana parecida a la siguiente:
+Imagen de ejemplo de añadir avión
+Si pulsas en guardar, se añadirá el avión al aeropuerto seleccionado, siempre y cuando no exista otro igual.
+En el combo, se mostrará <"Nombre aeropuerto" ("Tipo aeropuerto")>.
+Si pulsas en cancelar, se cerrará la ventana.
+Solo se abrirá si hay aeropuertos.
+
+Ejercicio 98: Añadir Avión (Parte 2)
+(Repite la funcionalidad descrita en la Parte 1).
+
+Ejercicio 99: Activar y Desactivar Aviones
+Se mostrará una ventana parecida a la siguiente:
+Imagen de ejemplo de activar/desactivar avión
+Se cargarán los aviones del aeropuerto seleccionado. Cada vez que se cambie de ítem, se cambiará el estado de los RadioButton.
+Si se pulsa en actualizar, se guardará el estado.
+Solo se abrirá si hay aeropuertos.
+
+Ejercicio 100: Eliminar Avión de un Aeropuerto
+Utilizando la ventana del ejercicio anterior, se cargarán los aviones del aeropuerto seleccionado.
+Al pulsar en eliminar, se borrará el avión del aeropuerto.
+
+
+
+
