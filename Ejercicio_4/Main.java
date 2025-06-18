@@ -1,4 +1,4 @@
-package Ejercicio_4;
+
 /*
  * Ejercicio 4: Menor de dos números
 Pide dos números por consola e indica cuál es el menor de los dos números. En caso de que sean iguales, también lo debes indicar.
@@ -29,6 +29,7 @@ public class Main {
                 System.out.println("El segundo numero es mayor al primero");
             }
         }
+        sc.close();
 
     }
 }

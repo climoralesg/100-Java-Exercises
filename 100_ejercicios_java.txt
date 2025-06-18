@@ -153,7 +153,7 @@ Pide una frase por consola y guarda en un array todos sus caracteres.
 
 
 Ejercicio 38: Fusion arrays
-
+Dado dos arrays creados por ti, fusionalos en uno.
 
 Ejercicio 39: Numero más repetido en un array
 Dado un array de números, indica cual es el elemento más repetido, en caso de empate, mostrar el último más repetido.
