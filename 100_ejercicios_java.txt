@@ -164,6 +164,8 @@ Dado un array de caracteres (te lo doy yo) y tu numero de DNI, debes sacar la le
 Para obtenerla solo deber sacar el módulo de 23 y ese sera el indice del array.
 Teniendo un array de String con el nombre de personas y otro de números con su edad, indicar quien es la persona mas mayor.
 
+Ejercicio 40: persona mayor
+Teniendo un array de String con el nombre de personas y otro de números con su edad, indicar quien es la persona mas mayor.
 
 Ejercicio 42: Mini-ahorcado
 Vamos a hacer un pequeño ahorcado.
