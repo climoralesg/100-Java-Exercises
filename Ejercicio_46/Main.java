@@ -19,7 +19,7 @@ public class Main {
         System.out.println("\n");
         
         for (int j = dataMatriz[0].length - 1, i = 0; j >= 0 && i < dataMatriz[0].length; j--, i++) {
-            System.out.println(dataMatriz[i][j]); // <- ¿Esto es correcto? 
+            System.out.println(dataMatriz[i][j]); 
         }
 
     }
