@@ -227,6 +227,8 @@ Métodos:
 
 Getter y setter
 toString()
+
+
 Ejercicio 54: Crear clase Aeropuerto
 Crea una clase Aeropuerto con los siguientes atributos:
 
