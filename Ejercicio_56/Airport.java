@@ -1,7 +1,9 @@
-package Ejercicio_55;
+package Ejercicio_56;
 
 
 import java.time.LocalDate;
+import java.util.ArrayList;
+
 public class Airport {
 
     public String name;
@@ -9,6 +11,7 @@ public class Airport {
     public int capacity;
 
     public Address address;
+    public ArrayList<Airplane> airplanes;
 
     public Airport(){
 
@@ -99,4 +102,18 @@ public class Airport {
         return this.address;
     }
 
+    public Airplane addAirplane(String model, int siteNumber,int maxSpeed){
+        
+        Airplane airplane = new Airplane(model, siteNumber, maxSpeed);
+        this.airplanes.add(airplane);
+        return airplane;
+    }
+
+    public ArrayList<Airplane> getAirplanes() {
+        return airplanes;
+    }
+
+    public void setAirplanes(ArrayList<Airplane> airplanes) {
+        this.airplanes = airplanes;
+    }
 }
