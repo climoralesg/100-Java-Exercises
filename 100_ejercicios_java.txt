@@ -270,6 +270,8 @@ Crea una clase AeropuertoPublico que herede de Aeropuerto y tenga atributos adic
 
 Financiación pública
 Número de trabajadores discapacitados
+
+
 Ejercicio 61: Aeropuerto privado (herencia)
 Crea una clase AeropuertoPrivado que herede de Aeropuerto y tenga atributos como:
 
