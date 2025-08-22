@@ -315,6 +315,7 @@ Actualiza el proyecto POO de aeropuerto con lo siguiente:
 Cambia los arrays por ArrayList.
 Añade a la clase Avión su correspondiente equals.
 Modifica el método añadirAvion y agrega otro que se llame eliminarAvion.
+
 Ejercicio 74: Leer Fichero de Texto
 Crea un fichero en el proyecto tú mismo y escribe el texto que quieras.
 Léelo con BufferedReader.
